@@ -69,4 +69,10 @@ The project is coded using a simple and intuitive structure presented below:
    |-- .env                                 # Inject Configuration via Environment
    |-- manage.py                            # Start the app - Django default start script
    ```
-![ScreenShot](/screenshots/Screenshot from 2022-08-04 22-37-08.png)
+<img align="left" alt="GIF" src="media/Screenshot from 2022-08-04 22-37-08.png" width="470" height="350" />
+
+<img align="right" alt="GIF" src="media/Screenshot from 2022-08-04 22-39-02.png" width="470" height="350" />
+
+<img align="left" alt="GIF" src="media/Screenshot from 2022-08-04 22-39-07.png" width="470" height="350" />
+
+<img align="right" alt="GIF" src="media/Screenshot from 2022-08-04 22-39-10.png" width="470" height="350" />
